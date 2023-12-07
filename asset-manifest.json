@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leaflet-geojson/static/css/main.7a9ed8ec.css",
+    "main.js": "/Leaflet-geojson/static/js/main.be27f55c.js",
+    "static/js/787.c9d86184.chunk.js": "/Leaflet-geojson/static/js/787.c9d86184.chunk.js",
+    "index.html": "/Leaflet-geojson/index.html",
+    "main.7a9ed8ec.css.map": "/Leaflet-geojson/static/css/main.7a9ed8ec.css.map",
+    "main.be27f55c.js.map": "/Leaflet-geojson/static/js/main.be27f55c.js.map",
+    "787.c9d86184.chunk.js.map": "/Leaflet-geojson/static/js/787.c9d86184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9ed8ec.css",
+    "static/js/main.be27f55c.js"
+  ]
+}
